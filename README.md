@@ -1,3 +1,8 @@
+# 🌍 Mein Reiseblog 2026
+
+**[🏠 Home](README.md) | [📍 tag1](tag1.md) | [📩 Kontakt](#)**
+---
+
 # Männerausflug 2026
 
 Hier findet ihr alle Infos zum
