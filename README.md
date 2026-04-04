@@ -8,6 +8,11 @@ Ausflug 2026.
 
 # Unser Urlaub
 
+| Navigation | Dein Reisebericht |
+| :--- | :--- |
+| **[🏠 Home](README.md)**<br>**[📅 Tag 1](tag1.md)**<br>**[📅 Tag 2](tag2.md)**<br>**[📸 Galerie](fotos.md)** | ## Willkommen auf unserer Reise! <br><br> Hier schreiben wir täglich live von unserer Finca. Heute sind wir angekommen und die Sonne scheint herrlich... ![Sonne](sonne.jpg) |
+
+
 * [Zum Reiseplan](#reiseplan)
 * [Zur Packliste](#packliste)
 
