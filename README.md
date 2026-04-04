@@ -4,7 +4,7 @@ Hier findet ihr alle Infos zum
 Ausflug 2026.
 
 ---
-![Mein Strandbild](.jpg)
+![Mein Strandbild](IMG_5464.jpeg)
 
 # Unser Urlaub
 
