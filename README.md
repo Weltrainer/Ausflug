@@ -26,25 +26,23 @@ Hier findet ihr die Infos, die ihr braucht!
 ## Reiseplan
 Hier steht der Text...
 
-## Packliste
-- [ ] Koffer
-
 
 ## 📅 🗓️Die Eckdaten
 * **Wann:** Freitag 10. Juli 11 Uhr
 * **Unterkunft:** [Name des Hotels/Airbnb]
 * **Treffpunkt:** [Uhrzeit/Ort für die Abfahrt]
 
-## 🎒 Packliste (Nicht vergessen!)
+## 🎒 Packliste (Stauraum vorhanden!)
 - [ ] **Ausweis/Reisepass** (Gültig?!)
-- [ ] Auslandskrankenversicherung
+- [ ] Fahrradhelm, -handschuhe
+- [ ] 
 - [ ] Ladekabel & Powerbank
 - [ ] [Spezifisches, z.B. Wanderschuhe oder Badehose]
 
-## 🎬 Must-See: Erste Eindrücke
+## 🎬 Erste Eindrücke
 Damit ihr wisst, warum ich uns dort eingebucht habe:
 
-1. **Die Altstadt/Strand:** [Hier YouTube-Link 1 einfügen]
+1. **Der Bike Park:** [https://youtu.be/mNEnyWZ2BRI?feature=shared]
 2. **Der Geheimtipp:** [Hier YouTube-Link 2 einfügen]
 
 ---
