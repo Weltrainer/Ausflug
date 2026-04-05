@@ -2,15 +2,14 @@
 ***
 
 
-# 🌍 Mein Reiseblog 2026
 
-# Männerausflug 2026
 
-Hier findet ihr alle Infos zum
-Ausflug 2026.
+# Kumpelz Ausflug 2026
+
+Hier findet ihr die Infos, die ihr braucht!
 
 ---
-![Mein Strandbild](IMG_5464.jpeg)
+![Titelbild](IMG_5483.png)
 
 # Unser Urlaub
 
