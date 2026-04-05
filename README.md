@@ -1,9 +1,3 @@
-[🏠 Home](README.md) • [📅 Tag 1](tag1.md) • [📸 Fotos](fotos.md)
-***
-
-
-
-
 # Kumpelz Ausflug 2026
 
 Hier findet ihr die Infos, die ihr braucht!
@@ -27,7 +21,8 @@ Hier steht der Text...
 - [ ] 
 - [ ] Ladekabel & Powerbank
 - [ ] [Spezifisches, z.B. Wanderschuhe oder Badehose]
-
+---
+***
 ## 🎬 Erste Eindrücke 
 
 ### 🎬 Video
