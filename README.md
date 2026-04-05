@@ -40,16 +40,7 @@ Hier steht der Text...
 - [ ] [Spezifisches, z.B. Wanderschuhe oder Badehose]
 
 ## 🎬 Erste Eindrücke
-Damit ihr wisst, warum ich uns dort eingebucht habe:
-
-1. **Der Bike Park:** [https://youtu.be/mNEnyWZ2BRI?feature=shared]
-2. **Der Geheimtipp:** [Hier YouTube-Link 2 einfügen]
-
----
-
-### 📺 Video-Highlights
 * [**Der Bikepark** – *Hier klicken zum Video*](https://youtu.be/mNEnyWZ2BRI?feature=shared)
-* [**Unsere Unterkunft** – *Rundgang durch das Haus*](http://googleusercontent.com/youtube.com/8)
 
 
 
