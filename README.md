@@ -3,8 +3,8 @@ Hier findet ihr die Infos, die ihr braucht!
 
 ![Titelbild](IMG_5483.png)
 
-## Plan
-**Eichel-Ober-Reisen präsentiert:  **
+## Was machmer denn?
+**Eichel-Ober-Reisen präsentiert:**  
 Ein Ausflug in die höchstgelegende Stadt Deutschlands... in den Kurort **Oberwiesenthal**.
 Hier werden wir für 2 Nächte unser Lager beziehen
 
