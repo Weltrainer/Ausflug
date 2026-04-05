@@ -48,7 +48,7 @@ Damit ihr wisst, warum ich uns dort eingebucht habe:
 ---
 
 ### 📺 Video-Highlights
-* [**Der Traumstrand** – *Hier klicken zum Video*](http://googleusercontent.com/youtube.com/7)
+* [**Der Bikepark** – *Hier klicken zum Video*](https://youtu.be/mNEnyWZ2BRI?feature=shared)
 * [**Unsere Unterkunft** – *Rundgang durch das Haus*](http://googleusercontent.com/youtube.com/8)
 
 
