@@ -68,5 +68,9 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 ---
 
 ![Eichelober](IMG_5489.png)
+<p align="center"><img src="IMG_5489.png" width="50%"></p>
+
+---
+
 ## <center>+++Eichel-Ober-Reisen+++</center>
 
