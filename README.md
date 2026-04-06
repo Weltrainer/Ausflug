@@ -1,4 +1,7 @@
-## <center>**+++Eichel-Ober-Reisen präsentiert+++**</center>    
+## <center>+++Eichel-Ober-Reisen präsentiert+++</center>
+
+---
+
 # Kumpelz Ausflug 2026
 Hier findet ihr die Infos, die ihr braucht!
 
