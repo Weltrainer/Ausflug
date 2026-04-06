@@ -1,4 +1,4 @@
-<center>+++**Eichel-Ober-Reisen präsentiert:**+++</center>    
+## <center>**+++Eichel-Ober-Reisen präsentiert+++**</center>    
 # Kumpelz Ausflug 2026
 Hier findet ihr die Infos, die ihr braucht!
 
@@ -52,10 +52,10 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 
 ### Fotos
 - [**Bikepark**](https://www.trailpark.cz/de/galerie-2/)
-- Unterkunft 
+- [**Unterkunft**](IMG_5486.JPG) 
 
 ### Links
-* [**Beschreibung der Trails**](https://www.trailpark.cz/de/trails-und-ihre-sektionen/)
+- [**Beschreibung der Trails**](https://www.trailpark.cz/de/trails-und-ihre-sektionen/)
 - [**Empfohlene Ausrüstung**](https://www.trailpark.cz/de/empfohlene-ausruestung-fuer-die-trails/)
 
 ---
