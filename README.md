@@ -1,4 +1,4 @@
-## <center>+++Eichel-Ober-Reisen präsentiert+++</center>
+## <center>+++Eichel-Ober-Reisen+++</center>
 
 ---
 
@@ -64,3 +64,9 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 ---
 
 ![Letztes Update](https://img.shields.io/badge/Update-05._April_2026-blue)
+
+---
+
+![Eichelober](IMG_5489.png)
+## <center>+++Eichel-Ober-Reisen+++</center>
+
