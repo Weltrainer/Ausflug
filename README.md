@@ -5,7 +5,21 @@ Hier findet ihr die Infos, die ihr braucht!
 
 ## Was machmer denn?
 **Eichel-Ober-Reisen präsentiert:**  
+
 ---
+
+test
+
+***
+
+test
+
+___
+
+test
+
+<hr>
+
 Ein Ausflug in die höchstgelegende Stadt Deutschlands... in den Kurort **Oberwiesenthal**.
 Hier werden wir für 2 Nächte unser Lager beziehen. Aber keine Angst, so ruhig wie sich das anhört wird es hoffentlich nicht >_<.  
 Wir starten am Freitag Vormittag. Ein geräumiger Van wird uns dem wohlbehüteten Oberfranken hinaus führen ins wilde Tschechien. 
