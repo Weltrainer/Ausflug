@@ -1,4 +1,4 @@
-**Eichel-Ober-Reisen präsentiert:**  
+<center>+++**Eichel-Ober-Reisen präsentiert:**+++</center>    
 # Kumpelz Ausflug 2026
 Hier findet ihr die Infos, die ihr braucht!
 
@@ -19,7 +19,7 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 
 ### Samstag 11. Juii 2026
 - **8 Uhr**: Raus aus den Federn und kräftig frühstücken
-- Grenzübertritt nach Tschechien zu *Programmpunkt 3*: **-->Bikepark Klinovec**
+- Grenzübertritt nach Tschechien zur *Hauptattraktion*: **Bikepark Klinovec**
 - **Ganztags**: Wir rocken die Abfahrt und chillen bergauf
 - Rückkehr zur Unterkunft
 - Abend zur freien Entfaltung
@@ -27,7 +27,7 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 ### Sonntag 12. Juli 2026
 - **9:30 Uhr**: Checkout
 - Rückreise nach Oberfranken (über Tschechien)
-- *Programmpunkt 4*
+- *Programmpunkt 3*
 - Ankunft in der Heimat am späten Nachmittag
 - Abend zur *privaten* Entfaltung
  
@@ -45,7 +45,7 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 
 ---
 
-## Hast noch weng mehr Infos?
+## Hast noch paar Infos?
 
 ### Video
 - [**Bikepark**](https://youtu.be/mNEnyWZ2BRI?feature=shared)
