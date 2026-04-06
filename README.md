@@ -1,4 +1,4 @@
-# <center>Kumpelz Ausflug 2026</center>
+# Kumpelz Ausflug 2026
 Hier findet ihr die Infos, die ihr braucht!
 
 ![Titelbild](IMG_5483.png)
