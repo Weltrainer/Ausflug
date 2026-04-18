@@ -83,5 +83,5 @@ Es besteht also eine geringe Chance, dass wir auf unserem Ausflug ein Deutschlan
 
 ---
 
-![Letztes Update](https://img.shields.io/badge/Update-05._April_2026-blue)
+![Letztes Update](https://img.shields.io/badge/Update-18._April_2026-blue)
 
