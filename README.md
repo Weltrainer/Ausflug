@@ -40,15 +40,12 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 
 | Platzierung Gruppenphase | Viertelfinale |
 |----------|----------|
-| Erster | VF #1 (Donnerstag 22 Uhr) |
-| Zweiter | VF #3 (Samstag 23 Uhr) |
-| Dritter | VF #2 (Freitag 21 Uhr)  test |
-
-- Wird Deutschland Gruppenerster, würden wir im Viertelfinale #1 am Donnerstag vorn unserem Ausflug spielen
-- Wird Deutschland Gruppenzweiter, spielen wir im Vietelfinale #3 am Samstag
-- Wird Deutschland Gruppendritter, spielen wir entweder Viertelfinal #2, #3 oder #4 (Sonntag 3 Uhr nachts)
+| Erster | Donnerstag 22 Uhr |
+| Zweiter | Samstag 23 Uhr |
+| Dritter | Freitag 21 Uhr <br> Samstag 23 Uhr <br> Montag 3 Uhr|
 
 Es besteht also eine geringe Chance, dass wir auf unserem Ausflug ein Deutschlandspiel haben!
+
 ---
 
 ## Was brauchmer denn?
