@@ -14,22 +14,22 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 
 ### Freitag 10.Juli 2026
 - **11:00 Uhr**: Eichel-Ober-Reisen holt euch direkt zu Hause ab
-- Aufbruch nach Oberwiesenthal (über Tschechien)
+- Aufbruch nach Oberwiesenthal
 - *Programmpunkt 1*
 - Ankunft in der Villa Kunterbunt am späten Nachmittag/früher Abend
 - *Programmpunkt 2*
-- **21:00 Uhr**: WM Viertelfinale #2
+- **21:00 Uhr**: WM Viertelfinale
 
 ### Samstag 11. Juii 2026
 - **8:00 Uhr**: Raus aus den Federn und kräftig frühstücken
 - Grenzübertritt nach Tschechien zur *Hauptattraktion*: **Bikepark Klinovec**
 - **Ganztags**: Wir rocken die Abfahrt und chillen bergauf
 - Rückkehr zur Unterkunft
-- **23:00 Uhr**: WM Viertelfinale #3
+- **23:00 Uhr**: WM Viertelfinale
 
 ### Sonntag 12. Juli 2026
 - **9:30 Uhr**: Checkout
-- Rückreise nach Oberfranken (über Tschechien)
+- Rückreise nach Oberfranken
 - *Programmpunkt 3*
 - Ankunft in der Heimat am späten Nachmittag
 - Abend zur *privaten* Entfaltung
@@ -42,7 +42,7 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 |----------|----------|
 | Erster | VF #1 (Donnerstag 22 Uhr) |
 | Zweiter | VF #3 (Samstag 23 Uhr) |
-| Dritter | VF #2 (Freitag 21 Uhr) |
+| Dritter | VF #2 (Freitag 21 Uhr)  test |
 
 - Wird Deutschland Gruppenerster, würden wir im Viertelfinale #1 am Donnerstag vorn unserem Ausflug spielen
 - Wird Deutschland Gruppenzweiter, spielen wir im Vietelfinale #3 am Samstag
