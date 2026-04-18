@@ -38,7 +38,7 @@ Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechisc
 
 ## Wann spielt Schland?
 
-| Platzierung Gruppenphase | Viertelfinale |
+| Gruppenphase | Viertelfinale |
 |----------|----------|
 | Erster | Donnerstag 22 Uhr |
 | Zweiter | Samstag 23 Uhr |
