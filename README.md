@@ -9,15 +9,19 @@ Hier findet ihr die Infos, die ihr braucht!
 
 ---
 ## Update 7.7.2026
-[] Personalausweis
-[] Krankenkassenkarte
+[ ] Personalausweis
+[ ] Krankenkassenkarte
 
-[] Full Face Helm lässt sich vor Ort ausleihen (wenn verfügbar), kostet 13€
-[] Nehmt trotzdem normalen Fahrradhelm mit, falls Full Face Helm nicht verfügbar
-[] Fahrradhandschuhe, Arbeitshandschuhe (besser weil Langfinger)
-[] Sonnenbrille/Fahrradbrille
-[] Protectoren wenn ihr habt (ich nehm mein Rückenprotektor vom Moped mit)
-[] Empfehlenswert Knie- Ellenbogenschützer (laut Influencer; laut meinem 60 jährigen Arbeitskollegen gehts auch ohne)
+[ ] Full Face Helm lässt sich vor Ort ausleihen (wenn verfügbar), kostet 13€
+[ ] Nehmt trotzdem normalen Fahrradhelm mit, falls Full Face Helm nicht verfügbar
+[ ] Fahrradhandschuhe, Arbeitshandschuhe (besser weil Langfinger)
+[ ] Sonnenbrille/Fahrradbrille
+[ ] Protectoren wenn ihr habt (ich nehm mein Rückenprotektor vom Moped mit)
+[ ] Empfehlenswert Knie- Ellenbogenschützer (laut Influencer; laut meinem 60 jährigen Arbeitskollegen gehts auch ohne)
+[ ] Trainingsjackw falls windig
+[ ] Sporthose zum Fahren, oder engere lange Hose
+[ ] kleiner Rucksack für Snacks/Wasser
+[ ] es gibt oben eine Hütte, jedoch wird wohl die Hölle los sein, weil Samstag und perfekte Bedingungen
 
 ## Was machmer denn?
 Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechischen Grenze: Oberwiesenthal!
