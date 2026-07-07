@@ -14,6 +14,9 @@ Hier findet ihr die Infos, die ihr braucht!
 - [ ] Personalausweis
 - [ ] Krankenkassenkarte
 
+### Wetterinfo
+- [] In der Wetter App "Klinovec Joachimsthal" einfügen
+
 ### Für den Bikepark
 - [ ] Full Face Helm lässt sich vor Ort ausleihen (wenn verfügbar), kostet 13€
 - [ ] Nehmt trotzdem normalen Fahrradhelm mit, falls Full Face Helm nicht verfügbar
