@@ -12,16 +12,26 @@ Hier findet ihr die Infos, die ihr braucht!
 - [ ] Personalausweis
 - [ ] Krankenkassenkarte
 
+### Für den Bikepark
 - [ ] Full Face Helm lässt sich vor Ort ausleihen (wenn verfügbar), kostet 13€
 - [ ] Nehmt trotzdem normalen Fahrradhelm mit, falls Full Face Helm nicht verfügbar
-- [ ] Fahrradhandschuhe, Arbeitshandschuhe (besser weil Langfinger)
+- [ ] Fahrradhandschuhe, evtl. Arbeitshandschuhe (besser weil Langfinger)
 - [ ] Sonnenbrille/Fahrradbrille
 - [ ] Protectoren wenn ihr habt (ich nehm mein Rückenprotektor vom Moped mit)
 - [ ] Empfehlenswert Knie- Ellenbogenschützer (laut Influencer; laut meinem 60 jährigen Arbeitskollegen gehts auch ohne)
-- [ ] Trainingsjackw falls windig
-- [ ] Sporthose zum Fahren, oder engere lange Hose
+- [ ] Trainingsjacke falls windig
+- [ ] Sporthose zum Fahren, oder engere lange Hose, je nachdem wie ihr meint dass ihr schwitzt
 - [ ] kleiner Rucksack für Snacks/Wasser
-- [ ] es gibt oben eine Hütte, jedoch wird wohl die Hölle los sein, weil Samstag und perfekte Bedingungen
+- [ ] es gibt oben eine Hütte, jedoch wird wohl die Hölle los sein, weil Samstag ist und perfekte Bedingungen herrschen
+
+### Unterkunft
+- [ ] Zugangscode (PIN): 3399 (alle Schlösser)
+- [ ] WLAN: Apartman_3 / Horskyvzduch
+- [ ] Allen Gästen stehen die Tische und Bänke neben dem Haus zur Verfügung.
+- [ ] Wir bitten Sie, die Nachtruhe von 22:00 bis 7:00 Uhr einzuhalten
+- [ ] Für Sie stehen Haar- und Duschshampoo, Flüssigseife, ein kleines Stück Seife sowie Körperlotion bereit.
+- [ ] Außerdem finden Sie Handtücher, Badetücher und Badematten vor. Einen Haartrockner finden Sie in der Schublade unter dem Waschbecken
+
 
 ## Was machmer denn?
 Ein Ausflug in die höchstgelegende Stadt Deutschlands, direkt an der tschechischen Grenze: Oberwiesenthal!
