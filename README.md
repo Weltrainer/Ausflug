@@ -23,7 +23,7 @@ Hier findet ihr die Infos, die ihr braucht!
 - [ ] Fahrradhandschuhe, evtl. Arbeitshandschuhe (besser weil Langfinger)
 - [ ] Sonnenbrille/Fahrradbrille
 - [ ] Protectoren wenn ihr habt (ich nehm mein Rückenprotektor vom Moped mit)
-- [ ] Empfehlenswert Knie- Ellenbogenschützer (laut Influencer; laut meinem 60 jährigen Arbeitskollegen gehts auch ohne)
+- [ ] laut Influencer auf Youtube: Empfehlenswert Knie- Ellenbogenschützer. Laut meinem 60 jährigen Arbeitskollegen gehts auch ohne!
 - [ ] Trainingsjacke falls windig
 - [ ] Sporthose zum Fahren, oder engere lange Hose, je nachdem wie ihr meint dass ihr schwitzt
 - [ ] kleiner Rucksack für Snacks/Wasser
@@ -39,6 +39,10 @@ Hier findet ihr die Infos, die ihr braucht!
 
 ### Entspannung am Sonntag
 - [] Ich denke es ist kein Geheimnis dass Sonntag die Therme gefordert wird. Wers braucht packt seine Utensilien ein: Saunatuch, Bademantel, Schlappen, whatever....
+
+### Sonstiges
+- [] Evtl. Bargeld einpacken, falls Kartenzahlung nicht geht. 
+
 ---
 
 
