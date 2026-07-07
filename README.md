@@ -9,6 +9,8 @@ Hier findet ihr die Infos, die ihr braucht!
 
 ---
 ## Update 7.7.2026
+
+### Dokumente
 - [ ] Personalausweis
 - [ ] Krankenkassenkarte
 
@@ -31,6 +33,10 @@ Hier findet ihr die Infos, die ihr braucht!
 - [ ] Wir bitten Sie, die Nachtruhe von 22:00 bis 7:00 Uhr einzuhalten
 - [ ] Für Sie stehen Haar- und Duschshampoo, Flüssigseife, ein kleines Stück Seife sowie Körperlotion bereit.
 - [ ] Außerdem finden Sie Handtücher, Badetücher und Badematten vor. Einen Haartrockner finden Sie in der Schublade unter dem Waschbecken
+
+### Entspannung am Sonntag
+- [] Ich denke es ist kein Geheimnis dass Sonntag die Therme gefordert wird. Wers braucht packt seine Utensilien ein: Saunatuch, Bademantel, Schlappen, whatever....
+---
 
 
 ## Was machmer denn?
