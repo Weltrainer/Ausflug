@@ -11,8 +11,8 @@ Hier findet ihr die Infos, die ihr braucht!
 ## Update 8.7.2026
 
 ### Ausrüstung
-- [] Wenn du noch keine spezielle MTB-Hose kaufen willst, tut es für die ersten Male auch eine robuste, etwas weiter geschnittene Arbeitshose (z. B. von Engelbert Strauss) oder eine alte, stabile Workwear-Jeans. Die sind extrem reißfest, bieten Platz für Schoner und stecken Bodenkontakt locker weg. Der Trend in den Parks geht klar zur langen Hose. 
-- [] Robustes Motocross-Jersey: Falls du vom Motorradfahren (z. B. Enduro/Motocross) noch ein Jersey hast – perfekt! Die sind eins zu eins für denselben Zweck gebaut, extrem robust und weit geschnitten.
+- [ ] Wenn du noch keine spezielle MTB-Hose kaufen willst, tut es für die ersten Male auch eine robuste, etwas weiter geschnittene Arbeitshose (z. B. von Engelbert Strauss) oder eine alte, stabile Workwear-Jeans. Die sind extrem reißfest, bieten Platz für Schoner und stecken Bodenkontakt locker weg. Der Trend in den Parks geht klar zur langen Hose. 
+- [ ] Robustes Motocross-Jersey: Falls du vom Motorradfahren (z. B. Enduro/Motocross) noch ein Jersey hast – perfekt! Die sind eins zu eins für denselben Zweck gebaut, extrem robust und weit geschnitten.
  Ein altes, festes Flanellhemd / Holzfällerhemd: Klingt nostalgisch, sieht man aber im Bikepark gar nicht so selten. Der dicke Baumwollstoff ist extrem reißfest, hält den Wind ab und bietet einen coolen Retro-Look.
  Lauf- oder Funktionsshirt (Langarm): Bietet das beste Klima, ist aber bei einem Sturz auf Steinen recht schnell zerrissen. Schützt deine Haut im ersten Moment aber trotzdem besser als ein normales Baumwoll-T-Shirt.
 
@@ -26,7 +26,7 @@ Hier findet ihr die Infos, die ihr braucht!
 - [ ] Krankenkassenkarte
 
 ### Wetterinfo
-- [] In der Wetter App "Klinovec Joachimsthal" einfügen
+- [ ] In der Wetter App "Klinovec Joachimsthal" einfügen
 
 ### Für den Bikepark
 - [ ] Full Face Helm lässt sich vor Ort ausleihen (wenn verfügbar), kostet 13€
@@ -49,10 +49,10 @@ Hier findet ihr die Infos, die ihr braucht!
 - [ ] Außerdem finden Sie Handtücher, Badetücher und Badematten vor. Einen Haartrockner finden Sie in der Schublade unter dem Waschbecken
 
 ### Entspannung am Sonntag
-- [] Ich denke es ist kein Geheimnis dass Sonntag die Therme gefordert wird. Wers braucht packt seine Utensilien ein: Saunatuch, Bademantel, Schlappen, whatever....
+- [ ] Ich denke es ist kein Geheimnis dass Sonntag die Therme gefordert wird. Wers braucht packt seine Utensilien ein: Saunatuch, Bademantel, Schlappen, whatever....
 
 ### Sonstiges
-- [] Evtl. Bargeld einpacken, falls Kartenzahlung nicht geht. 
+- [ ] Evtl. Bargeld einpacken, falls Kartenzahlung nicht geht. 
 
 ---
 
