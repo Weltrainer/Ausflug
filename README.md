@@ -16,7 +16,8 @@ Hier findet ihr die Infos, die ihr braucht!
  2) Ein altes, festes Flanellhemd / Holzfällerhemd: Klingt nostalgisch, sieht man aber im Bikepark gar nicht so selten. Der dicke Baumwollstoff ist extrem reißfest, hält den Wind ab und bietet einen coolen Retro-Look.
  3) Lauf- oder Funktionsshirt (Langarm): Bietet das beste Klima, ist aber bei einem Sturz auf Steinen recht schnell zerrissen. Schützt deine Haut im ersten Moment aber trotzdem besser als ein normales Baumwoll-T-Shirt.
 - [ ] Montagehandschuhe (z. B. MaxiFlex): Die dünnen, elastischen Stoffhandschuhe mit der schwarzen Nitril- oder PU-Beschichtung an den Handflächen sind super. Sie bieten extrem viel Gefühl am Lenker und an den Bremshebeln, sind rutschfest und belüften die Handoberseite ordentlich.
-
+- Das zieh ich an:
+![Ausrüstung](IMG_6008.jpeg)
 
 
 ---
