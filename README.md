@@ -8,7 +8,7 @@ Hier findet ihr die Infos, die ihr braucht!
 ![Titelbild](IMG_5483.png)
 
 ---
-## Update 8.7.2026 15:36 Uhr
+## Update 8.7.2026 16:11 Uhr
 
 ### Ausrüstung
 - [ ] Wenn du noch keine spezielle MTB-Hose kaufen willst, tut es für die ersten Male auch eine robuste, etwas weiter geschnittene Arbeitshose (z. B. von Engelbert Strauss) oder eine alte, stabile Workwear-Jeans. Die sind extrem reißfest, bieten Platz für Schoner und stecken Bodenkontakt locker weg. Der Trend in den Parks geht klar zur langen Hose. 
@@ -16,7 +16,7 @@ Hier findet ihr die Infos, die ihr braucht!
  2) Ein altes, festes Flanellhemd / Holzfällerhemd: Klingt nostalgisch, sieht man aber im Bikepark gar nicht so selten. Der dicke Baumwollstoff ist extrem reißfest, hält den Wind ab und bietet einen coolen Retro-Look.
  3) Lauf- oder Funktionsshirt (Langarm): Bietet das beste Klima, ist aber bei einem Sturz auf Steinen recht schnell zerrissen. Schützt deine Haut im ersten Moment aber trotzdem besser als ein normales Baumwoll-T-Shirt.
 - [ ] Montagehandschuhe (z. B. MaxiFlex): Die dünnen, elastischen Stoffhandschuhe mit der schwarzen Nitril- oder PU-Beschichtung an den Handflächen sind super. Sie bieten extrem viel Gefühl am Lenker und an den Bremshebeln, sind rutschfest und belüften die Handoberseite ordentlich.
-- Das zieh ich an:
+- Das zieh ich an (im Grunde kömmer dort gleich was ärbern >_<):
 ![Ausrüstung](IMG_6008.jpeg)
 
 
